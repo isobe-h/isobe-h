@@ -2,3 +2,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isobe-h&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/poipoi0?theme=dark&font=Vidaloka&ext=heatmap)
